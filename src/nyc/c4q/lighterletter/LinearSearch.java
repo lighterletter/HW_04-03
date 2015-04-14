@@ -35,7 +35,6 @@ public class LinearSearch {
         int x = scanner.nextInt();
 
 
-
         if (search(unknown,x) == -1){
             System.out.println(x + " :Not in my database");
         }else {
